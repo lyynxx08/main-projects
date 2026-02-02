@@ -39,4 +39,9 @@ Button clicks
 
 Basic UI behavior (like menu toggle, alerts, etc.)
 
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/df4ff5d9-d11e-4217-a4be-9c3b7a289766" />
+
+
 🧩 Well-structured and readable code
+
+
